@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RddWordCountJava">
+    <output-path>$PROJECT_DIR$/out/artifacts/RddWordCountJava</output-path>
+    <root id="archive" name="RddWordCountJava.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="SparkDemo" />
+    </root>
+  </artifact>
+</component>
