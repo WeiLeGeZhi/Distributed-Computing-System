@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="flinkWordCount">
+    <output-path>$PROJECT_DIR$/out/artifacts/flinkWordCount</output-path>
+    <root id="archive" name="flinkWordCount.jar">
+      <element id="module-output" name="FlinkDemo" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
